@@ -1,4 +1,4 @@
-# Costruire le seguenti pagine
+# Costruire le seguenti pagine html 
 ## Utilizzando la struttura standard di un sito web
 
 1. Home:
