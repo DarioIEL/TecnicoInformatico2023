@@ -1,0 +1,3 @@
+- Spiegazione del file system
+- Collegamento al css
+- Utilizzo dei menu
