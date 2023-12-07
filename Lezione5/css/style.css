@@ -1,0 +1,23 @@
+
+/* CSS === CASCADING STYLE SHEET */
+
+/* Recupero un elemento attraverso il suo id */
+
+#elSaluto{
+    background-color: red;
+    border: 1px solid black;
+}
+
+#elDemo{
+    background-color: blue;
+    color: white;
+}
+
+#elFeed{
+    background-color: cadetblue;
+    color: white;
+    width: 200px;
+    height: auto;
+    padding: 25px;
+    border-radius: 25px;
+}
