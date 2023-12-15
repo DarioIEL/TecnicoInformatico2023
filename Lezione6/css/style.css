@@ -1,0 +1,21 @@
+#demo{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 150px;
+}
+
+#feedback{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    background-color: darkblue;
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    text-align: center;
+    
+}
